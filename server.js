@@ -1,3 +1,4 @@
+//start from here (basics of express.js)
 const express = require('express')
 const app = express()    // instance of express
 const path = require('path')
