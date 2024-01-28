@@ -116,4 +116,4 @@ app.all('*', (req, res) => {     //  app.all method is a special routing method 
 //another way to do the above is 
 app.use(errorhandler)
 
-app.listen(PORT, () => console.log('server is running on port', PORT)) 
+app.listen(PORT, () => console.log('server is running on port', PORT))

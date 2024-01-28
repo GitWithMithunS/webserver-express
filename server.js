@@ -10,7 +10,7 @@ const PORT = process.env.port || 3300       //process.env.port this if the port 
 //     console.log('hello world')
 // })
 // app.get('^/$', (req,res) => {     // '^'=> begin with '$'=>end with so ^/$ => represents begin wiht a slash and end with a slash
-//     res.send('hello world!')
+//     res.send('hello world!')      //Regex" stands for "Regular Expression. It is a powerful tool used for pattern matching and searching within strings. Regular expressions provide a concise and flexible way to describe, identify, and manipulate text based on patterns.
 //     console.log('hello world')
 // })
 
@@ -65,3 +65,26 @@ app.get('/*', (req,res) => {     // '*' => represents all
 
 
 app.listen(PORT, () => console.log('server is running on port', PORT)) // if ur are using only node the statement would have been(if the name of createdserver is server by http method) server.listen(PORT, () => console.log('server is running on port', PORT)
+
+
+
+
+
+
+
+
+
+
+//regex  (Regular expressions can include ordinary characters (e.g., letters, numbers) that match themselves)
+//   . (dot) matches any single character except a newline.
+//   * (asterisk) matches zero or more occurrences of the preceding character or group.
+//   + (plus) matches one or more occurrences of the preceding character or group.
+//   ? (question mark) matches zero or one occurrence of the preceding character or group.
+//   ^ (caret) asserts the start of a line.
+//   $ (dollar sign) asserts the end of a line.
+//   Character Classes: A set of characters enclosed in square brackets [ ] represents a character class. For example, [aeiou] matches any vowel.
+//   Quantifiers: Indicate the number of occurrences. For example:
+//   {n} matches exactly n occurrences.
+//   {n,} matches n or more occurrences.
+//   {n,m} matches between n and m occurrences.
+//   Groups and Capturing: Parentheses () are used to group expressions, and they also capture the matched text for later use.

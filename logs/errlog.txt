@@ -4,3 +4,12 @@
 20240128 /1706425167 12:29:27 	 90a06cab-50c0-46b8-8072-377b7afa2b9f 	 Error:not allowed by the CORS 
 20240128 /1706425183 12:29:43 	 598a0b86-c5e3-479c-983a-7e2172b4201a 	 TypeError:whitelist.indeOf is not a function 
 20240128 /1706425188 12:29:48 	 cdb81a43-8b27-4941-882e-5c238bc8b4b0 	 TypeError:whitelist.indeOf is not a function 
+20240128 /1706425887 12:41:27 	 6a978b2a-0abf-4598-a2f0-34325ef73038 	 TypeError:req.accepted is not a function 
+20240128 /1706443757 17:39:17 	 90922051-6245-4871-b0a5-f0b3ab721a8f 	 TypeError:req.json is not a function 
+20240128 /1706443774 17:39:34 	 84df6e27-9be6-4bc9-aed8-8a106431b657 	 TypeError:req.json is not a function 
+20240128 /1706443775 17:39:35 	 329e43a4-0483-4b1c-800c-7a55a192b3c0 	 TypeError:req.json is not a function 
+20240128 /1706443775 17:39:35 	 04cc5a58-bc4a-427e-a990-a148ae7847f8 	 TypeError:req.json is not a function 
+20240128 /1706443775 17:39:35 	 7f633044-661d-40be-b7bc-c71d7bdf03b7 	 TypeError:req.json is not a function 
+20240128 /1706443775 17:39:35 	 3fe20b6e-6e4e-4df0-b9da-c9cbdb013ed6 	 TypeError:req.json is not a function 
+20240128 /1706443776 17:39:36 	 36e0ee36-6d51-4ca2-9993-291f8b906975 	 TypeError:req.json is not a function 
+20240128 /1706443776 17:39:36 	 eaacfd62-db68-4ff2-922e-5e2447135fdf 	 TypeError:req.json is not a function 
