@@ -1,0 +1,6 @@
+20240128 /1706425167 12:29:27 	 df4c5ec1-ba30-49fe-91b4-2febf237b439 	 Error:not allowed by the CORS 
+20240128 /1706425167 12:29:27 	 15e9466a-dcea-4834-909e-2151e055523e 	 Error:not allowed by the CORS 
+20240128 /1706425167 12:29:27 	 51dd9148-7c2f-4c8d-84ac-d4ba63c62ff0 	 Error:not allowed by the CORS 
+20240128 /1706425167 12:29:27 	 90a06cab-50c0-46b8-8072-377b7afa2b9f 	 Error:not allowed by the CORS 
+20240128 /1706425183 12:29:43 	 598a0b86-c5e3-479c-983a-7e2172b4201a 	 TypeError:whitelist.indeOf is not a function 
+20240128 /1706425188 12:29:48 	 cdb81a43-8b27-4941-882e-5c238bc8b4b0 	 TypeError:whitelist.indeOf is not a function 

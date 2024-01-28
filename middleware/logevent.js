@@ -19,4 +19,10 @@ const logevents = async (message ,logname) => {
     }
 }
 
-module.exports = logevents 
+const logger = async(req,res,next) => {
+    logevents(`${req.method} \t${req.header.origin}\t ${req.url}` , 'reqlog.txt')    //req.method -> type of request(get,put,post,delete,etc)   req.header.origin -> were the request is being made(ex- www.google.com,if it is on localhost it comes as undfined)
+    console.log(`${req.method} \t ${req.path}`)
+    next()
+}
+
+module.exports = {logger , logevents }
